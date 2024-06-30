@@ -1,0 +1,8 @@
+seaborn
+numpy
+pandas
+plotly
+sqlalchemy
+psycopg2
+missingno
+
